@@ -1,3 +1,8 @@
+[Vue側の認証時の画面遷移について](https://qiita.com/yatsurugi55/items/c867131016e37e71ee04)
+[Spring security with Spring boot2.0 rest API](https://qiita.com/rubytomato@github/items/6c6318c948398fa62275)
+[spring security 6.0 を初めて学ぶ人のために](https://www.docswell.com/s/MasatoshiTada/KGVY9K-spring-security-intro#p2)
+[Spring security API login](https://kasyalog.site/blog/spring-security-api-auth/)
+[spring framwwork　入門](https://qiita.com/suke_masa/items/9dd3300c3190d6445ff8)
 Spring Security 6を使用してSession認証を実装する場合の全体的な流れと必要なクラスについて説明します。
 
 1. 主要なクラスと関係
